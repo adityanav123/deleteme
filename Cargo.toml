@@ -1,0 +1,11 @@
+[package]
+name = "arkham"
+version = "1.0.3"
+edition = "2021"
+authors = ["Aditya Navphule"]
+
+
+[dependencies]
+figlet-rs = "0.1.5"
+chrono = "0.4.38"
+tabled = "0.16.0"
